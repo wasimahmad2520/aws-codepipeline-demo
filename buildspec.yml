@@ -1,3 +1,5 @@
+# automating the task
+
 version: 0.2
 
 phases:
@@ -25,3 +27,8 @@ artifacts:
     - "**/*"
   discard-paths: no
   base-directory: dist
+
+
+
+
+
