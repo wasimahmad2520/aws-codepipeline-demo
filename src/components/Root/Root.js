@@ -17,6 +17,7 @@ const Root = () => {
   return (
     <Wrapper>
       <CounterWrapper>
+        
         <Counter />
       </CounterWrapper>
     </Wrapper>
